@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 int main(){
  int dado = 10;
@@ -25,24 +24,5 @@ int main(){
  dado /= 4;
  printf("Depois da divisao por 4:  %d\n", dado);
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-return 0;
-
-
+ return 0;
 }
