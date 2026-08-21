@@ -1,6 +1,12 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.Main",
+            "projectName": "Teste_e8fc7b1a"
+        },
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",

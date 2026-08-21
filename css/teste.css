@@ -1,0 +1,5 @@
+.hello::after {
+  content: "Hello World";
+  color: blue;
+  font-size: 24px;
+}
